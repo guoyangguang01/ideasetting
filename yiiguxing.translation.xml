@@ -1,15 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="n" />
       <item value="wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1609511343437" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
