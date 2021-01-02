@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings" />
       <item value="n" />
       <item value="wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
