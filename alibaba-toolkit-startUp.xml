@@ -3,6 +3,7 @@
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="D:/Develop/github/elasticsearch" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/kafka" startUpFlag="FIRST" />
+    <entry projectPath="D:/Develop/github/tomcat" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/workspace/PERA13.1/searchengine/pera_search" startUpFlag="FIRST" />
   </component>
 </application>
