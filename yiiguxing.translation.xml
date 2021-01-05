@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This file is divided into 3 sections: (1) rules that we enforce. (2) rules that we would like to enforce, but haven't cleaned up the codebase to turn on yet (or we need to make the scalastyle rule more configurable). (3) rules that we don't want to enforce" />
+      <item value="storage" />
       <item value="computation graphs for data analysis" />
       <item value="optimized" />
       <item value="unified" />
@@ -11,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
