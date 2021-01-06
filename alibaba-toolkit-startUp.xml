@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/Develop/github/arthas" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/elasticsearch" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/kafka" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/linux-tutorial" startUpFlag="FIRST" />
