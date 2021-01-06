@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flush" />
+      <item value="flushed" />
       <item value="assert Repository URI Is Secure" />
       <item value="is not using a secure protocol for artifacts on" />
       <item value="Be advised that shading a JAR also has implications. Shading the Commons Logging layer, for instance, means that 3rd-party logging backends need to be shaded as well" />
@@ -17,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
