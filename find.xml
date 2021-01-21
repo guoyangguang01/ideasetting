@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\mybatis-master\src\main\java\org\apache\ibatis\session\Configuration.java [mybatis]'" />
+    <option name="defaultScopeName" value="File '...\mybatis-master\src\main\java\org\apache\ibatis\session\Configuration.java [mybatis]'" />
+    <option name="SEARCH_SCOPE" value="File '...\mybatis-master\src\main\java\org\apache\ibatis\session\Configuration.java [mybatis]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
