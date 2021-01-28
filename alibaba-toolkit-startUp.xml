@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Documents/Tencent Files/1252232509/FileRecv/Project_OcrLiteOnnxJvm-v1.5.0/OcrLiteOnnxJvm" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/Activiti" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/OcrLiteOnnxJvm" startUpFlag="FIRST" />
     <entry projectPath="D:/Develop/github/WCP" startUpFlag="FIRST" />
