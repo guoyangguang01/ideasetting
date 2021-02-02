@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="persistence" />
       <item value="Angle" />
       <item value="deprecation" />
       <item value="render" />
@@ -29,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
