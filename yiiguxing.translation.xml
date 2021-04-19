@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tokener" />
       <item value="This is a cut down version of org.apache.tomcat.util.Jre9Compat that provides only the methods required by the EL implementation. This class is duplicated in org.apache.el.util When making changes keep the two in sync." />
       <item value="Caffeine" />
       <item value="acquired" />
@@ -36,8 +37,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
+        <entry key="BASQUE" value="1" />
       </map>
     </option>
   </component>
