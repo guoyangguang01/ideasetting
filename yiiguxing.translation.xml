@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interpolation Search" />
+      <item value="Breadth First Search Algorithm" />
       <item value="Integer Bucket Sorter" />
       <item value="Tokener" />
       <item value="This is a cut down version of org.apache.tomcat.util.Jre9Compat that provides only the methods required by the EL implementation. This class is duplicated in org.apache.el.util When making changes keep the two in sync." />
@@ -38,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
       </map>
@@ -47,8 +49,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1618797246114" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
