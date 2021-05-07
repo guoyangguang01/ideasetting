@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wild Turkey" />
+      <item value="Turkey" />
       <item value="gobble" />
       <item value="Duck" />
       <item value="distribute" />
@@ -46,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
       </map>
