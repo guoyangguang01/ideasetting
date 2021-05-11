@@ -26,6 +26,14 @@
           <option name="url" value="https://gitee.com/jeecg/JimuReport.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SourceHot/mybatis-read.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hub.fastgit.org/SourceHot/mybatis-read.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Develop\github" />
