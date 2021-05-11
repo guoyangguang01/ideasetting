@@ -22,6 +22,10 @@
           <option name="url" value="https://gitee.com/EidenRitto/hearthstone.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/jeecg/JimuReport.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Develop\github" />
