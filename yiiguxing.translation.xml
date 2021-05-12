@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mocha" />
+      <item value="Espresso" />
+      <item value="Soy" />
+      <item value="Condiment Decorator" />
+      <item value="Beverage" />
       <item value="separate" />
       <item value="synonym" />
       <item value="Strategy" />
@@ -46,14 +51,15 @@
       <item value="The build scan was not published due to a configuration problem. The Gradle Terms of Service have not been agreed to." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings" />
       <item value="n" />
-      <item value="wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="52" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
