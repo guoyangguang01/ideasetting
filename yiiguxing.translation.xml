@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="482" />
+    <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="Springsteen Problem" />
+      <item value="Knapsack" />
+      <item value="Ant Colony" />
+      <item value="Simple Genetic Algorithm" />
+      <item value="Simulated Annealing" />
       <item value="Mocha" />
       <item value="Espresso" />
       <item value="Soy" />
@@ -46,16 +54,11 @@
       <item value="This file is divided into 3 sections: (1) rules that we enforce. (2) rules that we would like to enforce, but haven't cleaned up the codebase to turn on yet (or we need to make the scalastyle rule more configurable). (3) rules that we don't want to enforce" />
       <item value="storage" />
       <item value="computation graphs for data analysis" />
-      <item value="optimized" />
-      <item value="unified" />
-      <item value="The build scan was not published due to a configuration problem. The Gradle Terms of Service have not been agreed to." />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings" />
-      <item value="n" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="SPANISH" value="2" />
