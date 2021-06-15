@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Replace size check with 'isNotEmpty'" />
+  </component>
+</application>
