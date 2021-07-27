@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="482" />
     <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="Tokenizer" />
       <item value="Duck Simulator" />
       <item value="Cheese" />
       <item value="Olives" />
@@ -53,12 +54,11 @@
       <item value="distribute" />
       <item value="regain" />
       <item value="policy" />
-      <item value="Interpolation Search" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="87" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="SPANISH" value="2" />
