@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="482" />
     <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="Around Closure" />
       <item value="Abstract Template View Resolver" />
       <item value="Tokenizer" />
       <item value="Duck Simulator" />
@@ -53,7 +54,6 @@
       <item value="gobble" />
       <item value="Duck" />
       <item value="distribute" />
-      <item value="regain" />
     </histories>
     <option name="languageScores">
       <map>
