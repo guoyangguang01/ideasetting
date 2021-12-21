@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="482" />
     <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="Factorial Square" />
       <item value="marshal" />
       <item value="sql" />
       <item value="Around Closure" />
@@ -53,7 +54,6 @@
       <item value="synonym" />
       <item value="Strategy" />
       <item value="Wild Turkey" />
-      <item value="gobble" />
     </histories>
     <option name="languageScores">
       <map>
