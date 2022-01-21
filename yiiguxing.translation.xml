@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="482" />
     <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="Periodic" />
       <item value="Maze" />
       <item value="Factorial Square" />
       <item value="marshal" />
@@ -53,7 +54,6 @@
       <item value="Beverage" />
       <item value="separate" />
       <item value="synonym" />
-      <item value="Strategy" />
     </histories>
     <option name="languageScores">
       <map>
