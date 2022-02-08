@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="482" />
     <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="frequent" />
       <item value="Caching Connection Factory" />
       <item value="Periodic" />
       <item value="Maze" />
@@ -53,7 +54,6 @@
       <item value="Soy" />
       <item value="Condiment Decorator" />
       <item value="Beverage" />
-      <item value="separate" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643183031249" />
+    <option name="lastTrimTime" value="1644289115014" />
   </component>
 </application>
