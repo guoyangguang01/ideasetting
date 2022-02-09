@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="482" />
     <option name="newTranslationDialogY" value="256" />
     <histories>
+      <item value="Indicates that the persistence provider must assign primary keys for the entity using a database identity column." />
       <item value="Plain Text" />
       <item value="Injector" />
       <item value="Decoy" />
@@ -53,7 +54,6 @@
       <item value="Watch out for cooler, rainy weather" />
       <item value="humidity" />
       <item value="Springsteen Problem" />
-      <item value="Knapsack" />
     </histories>
     <option name="languageScores">
       <map>
