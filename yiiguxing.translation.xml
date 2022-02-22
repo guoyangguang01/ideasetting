@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Scans the classpath for annotated components that will be auto-registered as Spring beans. By default, the Spring-provided @Component, @Repository, @Service, and @Controller stereotypes will be detected. Note: This tag implies the effects of the 'annotation-config' tag, activating @Required, @Autowired, @PostConstruct, @PreDestroy, @Resource, @PersistenceContext and @PersistenceUnit annotations in the component classes, which is usually desired for autodetected components (without external configuration). Turn off the 'annotation-config' attribute to deactivate this default behavior, for example in order to use custom BeanPostProcessor definitions for handling those annotations. Note: You may use placeholders in package paths, but only resolved against system properties (analogous to resource paths). A component scan results in new bean definition being registered; Spring's PropertyPlaceholderConfigurer will apply to those bean definitions just like to regular bean definitions, but it won't apply to the component scan settings themselves. See javadoc for org.springframework.context.annotation.ComponentScan for information on code-based alternatives to bootstrapping component-scanning." />
       <item value="Callback" />
       <item value="via" />
       <item value="collaborating" />
@@ -53,12 +54,11 @@
       <item value="Pluggable" />
       <item value="Built-in fault tolerance and high availability configuration options" />
       <item value="Financial grade transactional message" />
-      <item value="Financial grade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="95" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="SPANISH" value="2" />
