@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Thread Pool Executor" />
+      <item value="Executor" />
       <item value="Blocking Queue" />
       <item value="Queue" />
       <item value="Synchronous Queue" />
@@ -52,13 +54,11 @@
       <item value="Provides a classification module which leverages Lucene index information." />
       <item value="benchmark" />
       <item value="backwards compatibility codecs" />
-      <item value="backwards" />
-      <item value="acl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="102" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="SPANISH" value="2" />
