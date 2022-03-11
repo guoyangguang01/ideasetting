@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…\capter1\src\AtomicStampedReferenceDemo.java'" />
+    <option name="defaultScopeName" value="File '…\capter1\src\AtomicStampedReferenceDemo.java'" />
+    <option name="SEARCH_SCOPE" value="File '…\capter1\src\AtomicStampedReferenceDemo.java'" />
     <mask>*.css</mask>
     <mask>*.yml</mask>
     <mask>*.pom</mask>
