@@ -3,6 +3,7 @@
     <option name="consentItems">
       <item download="DENIED" kind="jdk" url="https://index-cdn.jetbrains.com/v2/jdk" />
       <item download="DENIED" kind="mvn" url="https://index-cdn.jetbrains.com/v2/mvn" />
+      <item download="ALLOWED" kind="SPACE-SHARED-INDEX" url="https://guoyangguang.jetbrains.space" />
     </option>
   </component>
 </application>
