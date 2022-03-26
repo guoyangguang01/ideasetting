@@ -7,12 +7,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.yml</mask>
-    <mask>*.pom</mask>
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
