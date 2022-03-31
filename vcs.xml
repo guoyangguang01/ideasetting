@@ -42,6 +42,10 @@
           <option name="url" value="https://github.91chi.fun//https://github.com/dyc87112/SpringCloud-Learning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitbox.apache.org/repos/asf/maven-site.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Develop\github" />
