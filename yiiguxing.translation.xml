@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Cipher" />
       <item value="Driertor" />
       <item value="Gumball Machine" />
       <item value="Decoy Duck" />
@@ -53,12 +54,11 @@
       <item value="frequent" />
       <item value="Caching Connection Factory" />
       <item value="Periodic" />
-      <item value="Maze" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
