@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Idempotency" />
       <item value="Cipher" />
       <item value="Driertor" />
       <item value="Gumball Machine" />
@@ -53,12 +54,11 @@
       <item value="drain" />
       <item value="frequent" />
       <item value="Caching Connection Factory" />
-      <item value="Periodic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
