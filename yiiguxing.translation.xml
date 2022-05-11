@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="queue" />
       <item value="To resolve this problem we are going to take into account two main requirements: vectors can't be null and the number of elements for vector have to be the same. Once we have added this guards throwing execptions we are going to implement this algorithm. To implement this scalar product we are going to iterate over v1 and v2 at the same time using a pointer defined with an integer named &quot;i&quot;. For every iteration we are going to accumulate the product of elements at position &quot;i&quot; for v1 and v2 inside an auxiliary variable named result. The complexity order of this algorithm in time terms is O(N) where N is the number of elements per vector. In space terms, the complexity order of this algorithm is O(1) because the auxiliary data structures used to implement this algorithm are not related to any problem parameter." />
       <item value="calculate Scalar Product" />
       <item value="local Time" />
@@ -55,12 +56,11 @@
       <item value="Plain Text" />
       <item value="Injector" />
       <item value="Decoy" />
-      <item value="Mallard Duck" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
