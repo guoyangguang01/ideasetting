@@ -6,6 +6,7 @@
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="pl" type="Prolog resource" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
