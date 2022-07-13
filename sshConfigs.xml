@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="532764nj67.goho.co" id="3463d668-5888-4cd6-9366-8d4de2862221" port="26695" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="server.natappfree.cc" id="b165f6ad-7e9b-416e-a33a-e0b0cdf5aaf0" port="43521" nameFormat="DESCRIPTIVE" username="guoyg" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
