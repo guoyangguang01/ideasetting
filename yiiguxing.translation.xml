@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1043" />
     <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="Reads the next line from the buffer and converts to a string array. The results are stored in peekedLines and peekedLine. Throws: IOException – If bad things happen during the read" />
       <item value="variance" />
       <item value="Abstract Base Graph" />
       <item value="manually" />
@@ -55,7 +56,6 @@
       <item value="Arithmetic Exception" />
       <item value="Thread Pool Executor" />
       <item value="Executor" />
-      <item value="Blocking Queue" />
     </histories>
     <option name="languageScores">
       <map>
@@ -74,6 +74,7 @@
     <option name="lastTrimTime" value="1664159968256" />
   </component>
   <component name="Settings">
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="313cb072b1d3c27f" />
