@@ -4,6 +4,7 @@
       <mapping pattern="jssecacerts" type="AUTO_DETECTED" />
       <mapping pattern="${sys" type="AUTO_DETECTED" />
       <mapping pattern="20221103添加原始文件类型" type="AUTO_DETECTED" />
+      <mapping pattern="20221117添加试验报告管理菜单.sql" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="lgt" type="Logtalk resource" />
