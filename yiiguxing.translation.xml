@@ -81,4 +81,7 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
 </application>
