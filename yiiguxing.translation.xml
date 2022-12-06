@@ -81,7 +81,12 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670299432042" />
+  </component>
   <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
 </application>
