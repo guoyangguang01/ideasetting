@@ -89,4 +89,15 @@
     <option name="translateDocumentation" value="true" />
     <option name="translator" value="MICROSOFT" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Nested" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
