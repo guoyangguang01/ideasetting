@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="guacamole" />
       <item value="This directory structure provides an example of how to apply custom branding and HTML extension to the Guacamole Client web application. This makes use of the guac-manifest.json file to specify the resources that are being provided, and provides examples of changing colors, fonts, and the login screen logo for the application. To use this, you need only to zip the file up into a JAR file, place it in the GUACAMOLE_HOMEextensions folder, and reload the web application. For example: zip -r tmpguacamole-branding-example.jar . mv tmpguacamole-branding-example.jar etcguacamoleextensions touch varlibtomcatwebappsguacamole.war These commands assume that your current working directory is this example directory, that your GUACAMOLE_HOME is located at etcguacamole, and that your the Guacamole Client web application is deployed in the varlibtomcatwebapps directory with the name &quot;guacamole.war&quot;. You should adjust the commands to fit your installation and environment" />
       <item value="Seek in progress" />
       <item value="fake" />
@@ -98,8 +99,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
