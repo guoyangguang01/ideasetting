@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The HttpServletRequest associated with the connection request received. Any parameters specified along with the connection request can be read from this object" />
+      <item value="Called whenever the JavaScript Guacamole client makes a connection request via HTTP. It it up to the implementor of this function to define what conditions must be met for a tunnel to be configured and returned as a result of this connection request (whether some sort of credentials must be specified, for example" />
       <item value="This directory structure provides an example of how to apply custom branding and HTML extension to the Guacamole Client web application. This makes use of the guac-manifest.json file to specify the resources that are being provided, and provides examples of changing colors, fonts, and the login screen logo for the application. To use this, you need only to zip the file up into a JAR file, place it in the GUACAMOLE_HOMEextensions folder, and reload the web application. For example: zip -r tmpguacamole-branding-example.jar . mv tmpguacamole-branding-example.jar etcguacamoleextensions touch varlibtomcatwebappsguacamole.war These commands assume that your current working directory is this example directory, that your GUACAMOLE_HOME is located at etcguacamole, and that your the Guacamole Client web application is deployed in the varlibtomcatwebapps directory with the name &quot;guacamole.war&quot;. You should adjust the commands to fit your installation and environment" />
       <item value="tunnel" />
       <item value="Verify format using Apache RAT" />
@@ -101,8 +103,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
