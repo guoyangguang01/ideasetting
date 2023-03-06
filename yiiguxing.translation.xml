@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="injector" />
       <item value="Clamp zoom level, maintain auto-fit" />
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
       <item value="The HttpServletRequest associated with the connection request received. Any parameters specified along with the connection request can be read from this object" />
@@ -105,8 +106,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
