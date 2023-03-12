@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Favicon" />
       <item value="injector" />
       <item value="Clamp zoom level, maintain auto-fit" />
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
@@ -106,8 +107,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="14" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
