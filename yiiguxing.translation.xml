@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="nside Once Per Request Filter originated by request" />
       <item value="Favicon" />
       <item value="injector" />
       <item value="Clamp zoom level, maintain auto-fit" />
@@ -108,7 +109,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
