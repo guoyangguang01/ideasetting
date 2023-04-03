@@ -1,0 +1,48 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="peracdm">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="peracdm" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoSpringAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoSpringAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="peracdm_simulation-service">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="simulation-service" />
+              <option name="testDirectoryRoot" value="pera-modules\pera-simulation\simulation-service\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="peracdm_simulation-web">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="simulation-web" />
+              <option name="testDirectoryRoot" value="pera-modules\pera-simulation\simulation-web\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="b2474a0b-d64a-4956-9b57-d4a9636dd9ec" />
+  </component>
+</application>
