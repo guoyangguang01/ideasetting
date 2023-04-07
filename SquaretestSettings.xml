@@ -31,6 +31,14 @@
             </ModuleSettings>
           </value>
         </entry>
+        <entry key="peracdm_pera-file">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="pera-file" />
+              <option name="testDirectoryRoot" value="pera-file\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="peracdm_pera-gateway">
           <value>
             <ModuleSettings>
