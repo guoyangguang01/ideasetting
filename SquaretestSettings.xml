@@ -23,6 +23,14 @@
     </option>
     <option name="projectNameModuleNameToSettingsMap">
       <map>
+        <entry key="peracdm_pera-admin">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="pera-admin" />
+              <option name="testDirectoryRoot" value="pera-admin\src\test\java" />
+            </ModuleSettings>
+          </value>
+        </entry>
         <entry key="peracdm_pera-gateway">
           <value>
             <ModuleSettings>
