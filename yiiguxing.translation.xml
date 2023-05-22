@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Exist" />
       <item value="chain" />
       <item value="Verify" />
       <item value="nside Once Per Request Filter originated by request" />
@@ -110,8 +111,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
