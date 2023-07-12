@@ -85,9 +85,14 @@
     <option name="lastTrimTime" value="1688984740888" />
   </component>
   <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20230709001738828" />
+      </app-key>
+    </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <histories>
