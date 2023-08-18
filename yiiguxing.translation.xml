@@ -92,7 +92,7 @@
     </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
+    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <histories>
